@@ -72,3 +72,9 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+/Content/MS_ForestFloorV1/Atlases/Chinese_Tallow_sktm0fn_atlas
+/Content/MS_ForestFloorV1/Atlases/Dead_Leaves_sk4lzhn_atlas
+/Content/MS_ForestFloorV1/Atlases/Dried_Grass_Dust_smonsso_atlas
+/Content/MS_ForestFloorV1/Atlases
+/Content/MS_ForestFloorV1/Maps
+/Content/MS_ForestFloorV1/Surfaces
